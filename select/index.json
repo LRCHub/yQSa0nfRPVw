@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ズルいよ ズルいね (=LOVE 全国ツアー「全部、内緒。」～横浜アリーナ～)",
+  "base_artist": "=LOVE",
+  "createdAt": "2026-03-27T13:15:54.768541Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ズルいよ ズルいね",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_ズルいよ_ズルいね_=LOVE.lrc"
+    }
+  ]
+}
